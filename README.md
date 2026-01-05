@@ -1,7 +1,6 @@
-# TP 30 : Pipeline CI/CD avec Jenkins, GitHub, Docker et ngrok
+## TP 30 : Pipeline CI/CD avec Jenkins, GitHub, Docker et ngrok
 
-- Screen Script pipline
-<img width="592" height="386" alt="screen3" src="https://github.com/user-attachments/assets/935babbc-510b-4330-b55b-bec0e2543139" />
+<img width="875" height="909" alt="image" src="https://github.com/user-attachments/assets/8e5ebb29-1e52-47a5-a154-b7bbf76f1525" />
 
 - Screen pipline build
 <img width="960" height="540" alt="screen1" src="https://github.com/user-attachments/assets/abdf9532-197a-48b2-af83-73b81db6dcfa" />
